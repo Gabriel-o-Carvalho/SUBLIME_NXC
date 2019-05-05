@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PosRegEnable(${1:});	]]></content>	<tabTrigger>PosRegEnable</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

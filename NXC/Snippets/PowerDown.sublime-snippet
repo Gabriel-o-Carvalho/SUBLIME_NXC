@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PowerDown(${1:});	]]></content>	<tabTrigger>PowerDown</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

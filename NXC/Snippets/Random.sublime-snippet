@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Random(${1:});	]]></content>	<tabTrigger>Random</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

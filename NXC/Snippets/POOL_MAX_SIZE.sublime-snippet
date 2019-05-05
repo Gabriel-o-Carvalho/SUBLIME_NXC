@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[POOL_MAX_SIZE]]></content>	<tabTrigger>POOL_MAX_SIZE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

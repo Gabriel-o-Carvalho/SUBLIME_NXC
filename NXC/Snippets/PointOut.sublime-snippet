@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PointOut(${1:});	]]></content>	<tabTrigger>PointOut</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

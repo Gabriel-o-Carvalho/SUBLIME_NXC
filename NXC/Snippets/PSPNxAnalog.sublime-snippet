@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PSPNxAnalog(${1:});	]]></content>	<tabTrigger>PSPNxAnalog</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

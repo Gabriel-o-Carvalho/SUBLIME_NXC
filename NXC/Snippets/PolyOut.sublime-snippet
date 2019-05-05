@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PolyOut(${1:});	]]></content>	<tabTrigger>PolyOut</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[RAND_MAX]]></content>	<tabTrigger>RAND_MAX</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

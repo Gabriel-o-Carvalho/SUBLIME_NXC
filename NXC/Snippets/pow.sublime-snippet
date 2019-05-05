@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[pow(${1:});	]]></content>	<tabTrigger>pow</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

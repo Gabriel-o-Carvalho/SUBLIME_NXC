@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PlayTone(${1:});	]]></content>	<tabTrigger>PlayTone</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

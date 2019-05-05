@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PosRegSetMax(${1:});	]]></content>	<tabTrigger>PosRegSetMax</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

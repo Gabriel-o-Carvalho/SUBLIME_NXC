@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PosRegSetAngle(${1:});	]]></content>	<tabTrigger>PosRegSetAngle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

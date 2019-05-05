@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Pos(${1:});	]]></content>	<tabTrigger>Pos</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

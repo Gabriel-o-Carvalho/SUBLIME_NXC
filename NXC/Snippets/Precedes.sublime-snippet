@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Precedes(${1:});	]]></content>	<tabTrigger>Precedes</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
