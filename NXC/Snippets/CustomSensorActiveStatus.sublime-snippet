@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CustomSensorActiveStatus(${1:});	]]></content>	<tabTrigger>CustomSensorActiveStatus</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

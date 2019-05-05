@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CustomSensorZeroOffset(${1:});	]]></content>	<tabTrigger>CustomSensorZeroOffset</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

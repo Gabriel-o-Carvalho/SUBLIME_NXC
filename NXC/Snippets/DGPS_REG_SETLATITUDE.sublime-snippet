@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[DGPS_REG_SETLATITUDE]]></content>	<tabTrigger>DGPS_REG_SETLATITUDE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

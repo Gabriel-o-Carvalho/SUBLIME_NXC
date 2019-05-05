@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[cos(${1:});	]]></content>	<tabTrigger>cos</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

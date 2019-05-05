@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CreateFileLinear(${1:});	]]></content>	<tabTrigger>CreateFileLinear</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[DeleteFile(${1:});	]]></content>	<tabTrigger>DeleteFile</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

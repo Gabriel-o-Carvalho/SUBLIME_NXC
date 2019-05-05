@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Copy(${1:});	]]></content>	<tabTrigger>Copy</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

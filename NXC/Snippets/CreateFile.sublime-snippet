@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CreateFile(${1:});	]]></content>	<tabTrigger>CreateFile</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
