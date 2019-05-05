@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFComboDirect(${1:});	]]></content>	<tabTrigger>HTPFComboDirect</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXDeleteSub(${1:});	]]></content>	<tabTrigger>HTRCXDeleteSub</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

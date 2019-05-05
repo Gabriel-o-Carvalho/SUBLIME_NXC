@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFRawOutput(${1:});	]]></content>	<tabTrigger>HTPFRawOutput</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFRepeat(${1:});	]]></content>	<tabTrigger>HTPFRepeat</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

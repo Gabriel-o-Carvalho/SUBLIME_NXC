@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFSingleOutputCST(${1:});	]]></content>	<tabTrigger>HTPFSingleOutputCST</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

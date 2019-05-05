@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTIRTrain(${1:});	]]></content>	<tabTrigger>HTIRTrain</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

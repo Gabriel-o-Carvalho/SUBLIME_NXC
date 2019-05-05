@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXMuteSound(${1:});	]]></content>	<tabTrigger>HTRCXMuteSound</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXAddToDatalog(${1:});	]]></content>	<tabTrigger>HTRCXAddToDatalog</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

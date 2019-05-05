@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFComboPWM(${1:});	]]></content>	<tabTrigger>HTPFComboPWM</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

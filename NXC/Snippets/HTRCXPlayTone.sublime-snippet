@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXPlayTone(${1:});	]]></content>	<tabTrigger>HTRCXPlayTone</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

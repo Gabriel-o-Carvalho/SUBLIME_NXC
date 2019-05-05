@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXPollMemory(${1:});	]]></content>	<tabTrigger>HTRCXPollMemory</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

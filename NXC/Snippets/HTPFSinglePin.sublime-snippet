@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFSinglePin(${1:});	]]></content>	<tabTrigger>HTPFSinglePin</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

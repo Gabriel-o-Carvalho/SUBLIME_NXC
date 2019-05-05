@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXBatteryLevel(${1:});	]]></content>	<tabTrigger>HTRCXBatteryLevel</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

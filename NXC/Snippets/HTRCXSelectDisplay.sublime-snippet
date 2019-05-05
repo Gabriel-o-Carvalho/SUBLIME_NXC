@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXSelectDisplay(${1:});	]]></content>	<tabTrigger>HTRCXSelectDisplay</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXClearSensor(${1:});	]]></content>	<tabTrigger>HTRCXClearSensor</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

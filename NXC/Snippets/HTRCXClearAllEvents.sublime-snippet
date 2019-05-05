@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXClearAllEvents(${1:});	]]></content>	<tabTrigger>HTRCXClearAllEvents</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

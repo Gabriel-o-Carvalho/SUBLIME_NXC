@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXPBTurnOff(${1:});	]]></content>	<tabTrigger>HTRCXPBTurnOff</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

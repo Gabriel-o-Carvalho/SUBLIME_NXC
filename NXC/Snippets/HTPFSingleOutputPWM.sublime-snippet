@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTPFSingleOutputPWM(${1:});	]]></content>	<tabTrigger>HTPFSingleOutputPWM</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

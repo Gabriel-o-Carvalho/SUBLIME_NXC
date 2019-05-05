@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXClearTimer(${1:});	]]></content>	<tabTrigger>HTRCXClearTimer</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

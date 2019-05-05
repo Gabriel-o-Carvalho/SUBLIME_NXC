@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXDecCounter(${1:});	]]></content>	<tabTrigger>HTRCXDecCounter</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

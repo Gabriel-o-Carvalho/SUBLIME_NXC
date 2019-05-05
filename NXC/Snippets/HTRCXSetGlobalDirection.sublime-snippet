@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXSetGlobalDirection(${1:});	]]></content>	<tabTrigger>HTRCXSetGlobalDirection</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

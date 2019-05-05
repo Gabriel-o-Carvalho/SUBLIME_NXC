@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXOn(${1:});	]]></content>	<tabTrigger>HTRCXOn</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

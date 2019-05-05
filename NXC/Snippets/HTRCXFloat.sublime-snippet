@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXFloat(${1:});	]]></content>	<tabTrigger>HTRCXFloat</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
