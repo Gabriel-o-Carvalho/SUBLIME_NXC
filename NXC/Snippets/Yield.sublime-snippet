@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Yield(${1:});	]]></content>	<tabTrigger>Yield</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

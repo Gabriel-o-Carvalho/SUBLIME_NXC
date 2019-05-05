@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Wait(${1:});	]]></content>	<tabTrigger>Wait</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[WriteNRLinkBytes(${1:});	]]></content>	<tabTrigger>WriteNRLinkBytes</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

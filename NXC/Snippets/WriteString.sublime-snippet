@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[WriteString(${1:});	]]></content>	<tabTrigger>WriteString</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[WriteI2CRegister(${1:});	]]></content>	<tabTrigger>WriteI2CRegister</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
