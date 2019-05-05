@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[DISTNxGP2D12(${1:});	]]></content>	<tabTrigger>DISTNxGP2D12</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

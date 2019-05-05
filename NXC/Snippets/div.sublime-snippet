@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[div(${1:});	]]></content>	<tabTrigger>div</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

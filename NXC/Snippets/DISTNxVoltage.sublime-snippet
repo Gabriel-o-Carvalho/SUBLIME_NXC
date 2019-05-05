@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[DISTNxVoltage(${1:});	]]></content>	<tabTrigger>DISTNxVoltage</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

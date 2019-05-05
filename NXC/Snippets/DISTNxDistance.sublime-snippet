@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[DISTNxDistance(${1:});	]]></content>	<tabTrigger>DISTNxDistance</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

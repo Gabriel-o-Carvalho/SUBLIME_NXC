@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[DisplayUpdateMask(${1:});	]]></content>	<tabTrigger>DisplayUpdateMask</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

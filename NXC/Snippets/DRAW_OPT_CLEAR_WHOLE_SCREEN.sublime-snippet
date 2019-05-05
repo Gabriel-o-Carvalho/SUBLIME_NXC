@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[DRAW_OPT_CLEAR_WHOLE_SCREEN]]></content>	<tabTrigger>DRAW_OPT_CLEAR_WHOLE_SCREEN</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

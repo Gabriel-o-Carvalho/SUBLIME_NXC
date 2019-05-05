@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[DISPLAY_ERASE_LINE]]></content>	<tabTrigger>DISPLAY_ERASE_LINE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
