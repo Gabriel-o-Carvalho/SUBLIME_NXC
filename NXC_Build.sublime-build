@@ -1,5 +1,0 @@
-{
-	"cmd" : ["nbc", "-d", "-S=usb", "$file"],
-    "selector" : "source.nxc",  
-     
-}
