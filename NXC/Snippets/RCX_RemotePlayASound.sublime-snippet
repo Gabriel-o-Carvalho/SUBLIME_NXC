@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[RCX_RemotePlayASound]]></content>	<tabTrigger>RCX_RemotePlayASound</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

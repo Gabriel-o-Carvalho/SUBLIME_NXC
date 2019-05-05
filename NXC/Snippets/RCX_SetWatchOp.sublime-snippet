@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[RCX_SetWatchOp]]></content>	<tabTrigger>RCX_SetWatchOp</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

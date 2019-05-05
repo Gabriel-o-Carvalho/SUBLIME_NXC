@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[RCX_SendUARTDataOp]]></content>	<tabTrigger>RCX_SendUARTDataOp</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

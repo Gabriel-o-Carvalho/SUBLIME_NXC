@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[RCX_PollMemoryOp]]></content>	<tabTrigger>RCX_PollMemoryOp</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
