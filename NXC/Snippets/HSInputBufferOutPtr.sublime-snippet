@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HSInputBufferOutPtr(${1:});	]]></content>	<tabTrigger>HSInputBufferOutPtr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

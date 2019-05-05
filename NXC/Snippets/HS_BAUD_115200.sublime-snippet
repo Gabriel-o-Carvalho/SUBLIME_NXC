@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[HS_BAUD_115200]]></content>	<tabTrigger>HS_BAUD_115200</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

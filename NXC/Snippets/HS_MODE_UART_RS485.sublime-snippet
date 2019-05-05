@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[HS_MODE_UART_RS485]]></content>	<tabTrigger>HS_MODE_UART_RS485</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

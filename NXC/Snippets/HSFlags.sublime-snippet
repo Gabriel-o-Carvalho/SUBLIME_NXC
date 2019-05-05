@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HSFlags(${1:});	]]></content>	<tabTrigger>HSFlags</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
