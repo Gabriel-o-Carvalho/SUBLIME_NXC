@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSetSensorClickTime(${1:});	]]></content>	<tabTrigger>MSScoutSetSensorClickTime</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

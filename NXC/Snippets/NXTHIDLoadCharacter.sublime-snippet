@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTHIDLoadCharacter(${1:});	]]></content>	<tabTrigger>NXTHIDLoadCharacter</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

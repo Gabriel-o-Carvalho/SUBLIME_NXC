@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSetSensorLowerLimit(${1:});	]]></content>	<tabTrigger>MSScoutSetSensorLowerLimit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

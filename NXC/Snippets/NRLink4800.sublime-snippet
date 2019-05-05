@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NRLink4800(${1:});	]]></content>	<tabTrigger>NRLink4800</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

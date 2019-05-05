@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSetDirection(${1:});	]]></content>	<tabTrigger>MSRCXSetDirection</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

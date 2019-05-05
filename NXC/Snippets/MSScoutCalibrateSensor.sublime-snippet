@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutCalibrateSensor(${1:});	]]></content>	<tabTrigger>MSScoutCalibrateSensor</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

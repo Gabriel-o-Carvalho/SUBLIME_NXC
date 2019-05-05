@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSetPriority(${1:});	]]></content>	<tabTrigger>MSRCXSetPriority</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

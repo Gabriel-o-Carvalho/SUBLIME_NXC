@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSetEventFeedback(${1:});	]]></content>	<tabTrigger>MSScoutSetEventFeedback</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

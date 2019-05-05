@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXRemote(${1:});	]]></content>	<tabTrigger>MSRCXRemote</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

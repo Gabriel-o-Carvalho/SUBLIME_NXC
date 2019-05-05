@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSetTimerLimit(${1:});	]]></content>	<tabTrigger>MSScoutSetTimerLimit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

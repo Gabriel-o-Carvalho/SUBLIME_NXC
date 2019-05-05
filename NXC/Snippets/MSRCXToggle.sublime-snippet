@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXToggle(${1:});	]]></content>	<tabTrigger>MSRCXToggle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

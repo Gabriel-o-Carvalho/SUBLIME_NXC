@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NRLinkSetTrain(${1:});	]]></content>	<tabTrigger>NRLinkSetTrain</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

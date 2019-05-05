@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NRLINK_CMD_TX_RAW]]></content>	<tabTrigger>NRLINK_CMD_TX_RAW</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

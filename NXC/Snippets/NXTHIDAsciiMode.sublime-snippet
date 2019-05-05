@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTHIDAsciiMode(${1:});	]]></content>	<tabTrigger>NXTHIDAsciiMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

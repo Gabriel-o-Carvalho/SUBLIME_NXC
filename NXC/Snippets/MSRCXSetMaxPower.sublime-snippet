@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSetMaxPower(${1:});	]]></content>	<tabTrigger>MSRCXSetMaxPower</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

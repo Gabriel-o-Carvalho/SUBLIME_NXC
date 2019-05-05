@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSumVar(${1:});	]]></content>	<tabTrigger>MSRCXSumVar</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

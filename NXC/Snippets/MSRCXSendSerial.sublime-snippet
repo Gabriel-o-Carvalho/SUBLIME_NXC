@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSendSerial(${1:});	]]></content>	<tabTrigger>MSRCXSendSerial</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

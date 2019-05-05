@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NRLINK_CMD_FLUSH]]></content>	<tabTrigger>NRLINK_CMD_FLUSH</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

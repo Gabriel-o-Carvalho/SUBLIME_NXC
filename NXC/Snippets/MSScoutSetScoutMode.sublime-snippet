@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSetScoutMode(${1:});	]]></content>	<tabTrigger>MSScoutSetScoutMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NumToStr(${1:});	]]></content>	<tabTrigger>NumToStr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

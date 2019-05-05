@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSendVLL(${1:});	]]></content>	<tabTrigger>MSScoutSendVLL</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

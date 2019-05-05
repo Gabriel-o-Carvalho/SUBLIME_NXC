@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXUnlock(${1:});	]]></content>	<tabTrigger>MSRCXUnlock</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

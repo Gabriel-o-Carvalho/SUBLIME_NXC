@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTHIDDirectMode(${1:});	]]></content>	<tabTrigger>NXTHIDDirectMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

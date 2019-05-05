@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSelectProgram(${1:});	]]></content>	<tabTrigger>MSRCXSelectProgram</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

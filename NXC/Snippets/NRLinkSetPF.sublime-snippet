@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NRLinkSetPF(${1:});	]]></content>	<tabTrigger>NRLinkSetPF</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

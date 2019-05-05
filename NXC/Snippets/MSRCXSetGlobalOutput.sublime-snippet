@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSetGlobalOutput(${1:});	]]></content>	<tabTrigger>MSRCXSetGlobalOutput</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

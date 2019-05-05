@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NRLINK_REG_EEPROM]]></content>	<tabTrigger>NRLINK_REG_EEPROM</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

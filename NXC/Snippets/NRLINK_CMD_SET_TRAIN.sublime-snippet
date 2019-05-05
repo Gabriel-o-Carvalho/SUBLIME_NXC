@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NRLINK_CMD_SET_TRAIN]]></content>	<tabTrigger>NRLINK_CMD_SET_TRAIN</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

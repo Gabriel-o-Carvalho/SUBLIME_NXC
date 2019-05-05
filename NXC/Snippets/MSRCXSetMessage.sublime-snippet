@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSetMessage(${1:});	]]></content>	<tabTrigger>MSRCXSetMessage</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

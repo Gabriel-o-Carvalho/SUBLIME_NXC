@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NRLINK_CMD_SET_PF]]></content>	<tabTrigger>NRLINK_CMD_SET_PF</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

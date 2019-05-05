@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTHID_CMD_TRANSMIT]]></content>	<tabTrigger>NXTHID_CMD_TRANSMIT</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

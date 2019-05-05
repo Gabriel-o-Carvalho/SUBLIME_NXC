@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXStartTask(${1:});	]]></content>	<tabTrigger>MSRCXStartTask</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

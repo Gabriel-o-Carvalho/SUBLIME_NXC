@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSScoutSetCounterLimit(${1:});	]]></content>	<tabTrigger>MSScoutSetCounterLimit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

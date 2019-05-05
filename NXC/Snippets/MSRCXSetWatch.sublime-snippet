@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXSetWatch(${1:});	]]></content>	<tabTrigger>MSRCXSetWatch</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
