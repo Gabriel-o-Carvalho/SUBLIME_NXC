@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetButtonLongPressCount(${1:});	]]></content>	<tabTrigger>SetButtonLongPressCount</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetHSMode(${1:});	]]></content>	<tabTrigger>SetHSMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

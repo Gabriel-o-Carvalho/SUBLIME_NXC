@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetACCLNxSensitivity(${1:});	]]></content>	<tabTrigger>SetACCLNxSensitivity</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

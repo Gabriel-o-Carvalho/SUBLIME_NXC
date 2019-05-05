@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[set_fopen_size(${1:});	]]></content>	<tabTrigger>set_fopen_size</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

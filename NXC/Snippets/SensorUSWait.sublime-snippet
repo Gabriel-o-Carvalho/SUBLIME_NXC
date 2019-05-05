@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorUSWait(${1:});	]]></content>	<tabTrigger>SensorUSWait</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

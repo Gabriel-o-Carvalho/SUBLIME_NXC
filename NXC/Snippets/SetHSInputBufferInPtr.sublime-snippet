@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetHSInputBufferInPtr(${1:});	]]></content>	<tabTrigger>SetHSInputBufferInPtr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

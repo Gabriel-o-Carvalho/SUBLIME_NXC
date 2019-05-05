@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetDisplayContrast(${1:});	]]></content>	<tabTrigger>SetDisplayContrast</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

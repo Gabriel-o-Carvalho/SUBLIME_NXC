@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetI2COptions(${1:});	]]></content>	<tabTrigger>SetI2COptions</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

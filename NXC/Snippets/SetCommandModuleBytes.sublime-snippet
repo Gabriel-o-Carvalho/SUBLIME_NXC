@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetCommandModuleBytes(${1:});	]]></content>	<tabTrigger>SetCommandModuleBytes</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

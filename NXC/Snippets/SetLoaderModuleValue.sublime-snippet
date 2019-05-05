@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetLoaderModuleValue(${1:});	]]></content>	<tabTrigger>SetLoaderModuleValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

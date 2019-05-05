@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetButtonLongReleaseCount(${1:});	]]></content>	<tabTrigger>SetButtonLongReleaseCount</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

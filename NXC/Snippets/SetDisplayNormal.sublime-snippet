@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetDisplayNormal(${1:});	]]></content>	<tabTrigger>SetDisplayNormal</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

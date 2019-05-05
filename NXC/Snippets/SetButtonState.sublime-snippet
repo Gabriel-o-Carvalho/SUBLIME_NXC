@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetButtonState(${1:});	]]></content>	<tabTrigger>SetButtonState</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

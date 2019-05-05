@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetDisplayFont(${1:});	]]></content>	<tabTrigger>SetDisplayFont</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

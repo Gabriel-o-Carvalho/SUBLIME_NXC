@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetNXTLineLeaderKdValue(${1:});	]]></content>	<tabTrigger>SetNXTLineLeaderKdValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

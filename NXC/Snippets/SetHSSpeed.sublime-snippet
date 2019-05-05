@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetHSSpeed(${1:});	]]></content>	<tabTrigger>SetHSSpeed</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

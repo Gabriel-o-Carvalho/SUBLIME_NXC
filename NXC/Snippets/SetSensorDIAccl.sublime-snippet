@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorDIAccl(${1:});	]]></content>	<tabTrigger>SetSensorDIAccl</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

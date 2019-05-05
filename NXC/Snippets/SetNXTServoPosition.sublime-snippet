@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetNXTServoPosition(${1:});	]]></content>	<tabTrigger>SetNXTServoPosition</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetCommandFlags(${1:});	]]></content>	<tabTrigger>SetCommandFlags</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

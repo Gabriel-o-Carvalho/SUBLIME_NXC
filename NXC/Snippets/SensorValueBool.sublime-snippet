@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorValueBool(${1:});	]]></content>	<tabTrigger>SensorValueBool</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

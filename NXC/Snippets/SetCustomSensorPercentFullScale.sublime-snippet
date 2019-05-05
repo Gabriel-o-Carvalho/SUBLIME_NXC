@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetCustomSensorPercentFullScale(${1:});	]]></content>	<tabTrigger>SetCustomSensorPercentFullScale</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

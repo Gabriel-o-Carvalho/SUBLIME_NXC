@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetMotorRegulationTime(${1:});	]]></content>	<tabTrigger>SetMotorRegulationTime</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetButtonPressCount(${1:});	]]></content>	<tabTrigger>SetButtonPressCount</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

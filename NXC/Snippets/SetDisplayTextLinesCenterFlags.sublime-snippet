@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetDisplayTextLinesCenterFlags(${1:});	]]></content>	<tabTrigger>SetDisplayTextLinesCenterFlags</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetMotorPwnFreq(${1:});	]]></content>	<tabTrigger>SetMotorPwnFreq</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

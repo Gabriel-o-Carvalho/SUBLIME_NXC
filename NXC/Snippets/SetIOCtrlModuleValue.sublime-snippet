@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetIOCtrlModuleValue(${1:});	]]></content>	<tabTrigger>SetIOCtrlModuleValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

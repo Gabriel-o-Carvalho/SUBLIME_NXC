@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetOutput(${1:});	]]></content>	<tabTrigger>SetOutput</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
