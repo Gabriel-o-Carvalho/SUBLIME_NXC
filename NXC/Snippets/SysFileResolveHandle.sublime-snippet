@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileResolveHandle(${1:});	]]></content>	<tabTrigger>SysFileResolveHandle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

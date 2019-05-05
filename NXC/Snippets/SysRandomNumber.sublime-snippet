@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysRandomNumber(${1:});	]]></content>	<tabTrigger>SysRandomNumber</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

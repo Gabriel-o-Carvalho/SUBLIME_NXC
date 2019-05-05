@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[tand(${1:});	]]></content>	<tabTrigger>tand</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

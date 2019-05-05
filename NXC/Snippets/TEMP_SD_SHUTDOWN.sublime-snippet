@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[TEMP_SD_SHUTDOWN]]></content>	<tabTrigger>TEMP_SD_SHUTDOWN</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

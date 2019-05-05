@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileFindNext(${1:});	]]></content>	<tabTrigger>SysFileFindNext</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

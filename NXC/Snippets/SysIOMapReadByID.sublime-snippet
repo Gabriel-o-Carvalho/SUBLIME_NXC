@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysIOMapReadByID(${1:});	]]></content>	<tabTrigger>SysIOMapReadByID</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

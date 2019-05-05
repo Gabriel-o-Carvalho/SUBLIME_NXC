@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysMessageWrite(${1:});	]]></content>	<tabTrigger>SysMessageWrite</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

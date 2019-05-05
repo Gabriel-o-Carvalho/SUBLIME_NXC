@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysIOMapWrite(${1:});	]]></content>	<tabTrigger>SysIOMapWrite</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

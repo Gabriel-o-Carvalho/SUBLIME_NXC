@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileSeek(${1:});	]]></content>	<tabTrigger>SysFileSeek</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysReadButton(${1:});	]]></content>	<tabTrigger>SysReadButton</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

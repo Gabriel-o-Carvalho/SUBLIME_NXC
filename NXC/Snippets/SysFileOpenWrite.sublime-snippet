@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileOpenWrite(${1:});	]]></content>	<tabTrigger>SysFileOpenWrite</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileOpenReadLinear(${1:});	]]></content>	<tabTrigger>SysFileOpenReadLinear</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

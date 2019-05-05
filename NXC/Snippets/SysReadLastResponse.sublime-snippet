@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysReadLastResponse(${1:});	]]></content>	<tabTrigger>SysReadLastResponse</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysWriteSemData(${1:});	]]></content>	<tabTrigger>SysWriteSemData</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

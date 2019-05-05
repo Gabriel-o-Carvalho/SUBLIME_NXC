@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDrawRect(${1:});	]]></content>	<tabTrigger>SysDrawRect</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

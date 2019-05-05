@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysGetStartTick(${1:});	]]></content>	<tabTrigger>SysGetStartTick</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

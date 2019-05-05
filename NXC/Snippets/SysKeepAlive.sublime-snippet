@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysKeepAlive(${1:});	]]></content>	<tabTrigger>SysKeepAlive</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

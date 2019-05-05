@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileResize(${1:});	]]></content>	<tabTrigger>SysFileResize</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

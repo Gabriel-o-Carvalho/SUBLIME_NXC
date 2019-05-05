@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysSetScreenMode(${1:});	]]></content>	<tabTrigger>SysSetScreenMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

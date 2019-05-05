@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysSetSleepTimeout(${1:});	]]></content>	<tabTrigger>SysSetSleepTimeout</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

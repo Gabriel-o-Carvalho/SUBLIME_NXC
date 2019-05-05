@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileRename(${1:});	]]></content>	<tabTrigger>SysFileRename</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

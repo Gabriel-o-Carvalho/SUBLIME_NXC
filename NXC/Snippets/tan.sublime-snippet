@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[tan(${1:});	]]></content>	<tabTrigger>tan</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

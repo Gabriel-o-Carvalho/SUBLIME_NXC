@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysUpdateCalibCacheInfo(${1:});	]]></content>	<tabTrigger>SysUpdateCalibCacheInfo</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

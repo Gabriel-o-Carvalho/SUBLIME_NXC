@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysFileClose(${1:});	]]></content>	<tabTrigger>SysFileClose</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
