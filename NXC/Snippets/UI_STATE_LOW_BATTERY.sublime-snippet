@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[UI_STATE_LOW_BATTERY]]></content>	<tabTrigger>UI_STATE_LOW_BATTERY</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

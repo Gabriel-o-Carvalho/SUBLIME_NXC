@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[USBState(${1:});	]]></content>	<tabTrigger>USBState</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

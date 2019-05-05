@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[VectorNormalize(${1:});	]]></content>	<tabTrigger>VectorNormalize</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

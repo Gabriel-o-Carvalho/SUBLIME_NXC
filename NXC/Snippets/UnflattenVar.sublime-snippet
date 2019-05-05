@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[UnflattenVar(${1:});	]]></content>	<tabTrigger>UnflattenVar</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

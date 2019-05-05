@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[UpperCase(${1:});	]]></content>	<tabTrigger>UpperCase</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

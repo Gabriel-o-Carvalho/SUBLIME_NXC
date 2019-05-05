@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[VectorCross(${1:});	]]></content>	<tabTrigger>VectorCross</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
