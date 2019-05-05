@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[SENSOR_MODE_CELSIUS]]></content>	<tabTrigger>SENSOR_MODE_CELSIUS</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

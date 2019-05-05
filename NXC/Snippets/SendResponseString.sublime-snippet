@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SendResponseString(${1:});	]]></content>	<tabTrigger>SendResponseString</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

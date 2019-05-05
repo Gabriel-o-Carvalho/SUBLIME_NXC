@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorScaled(${1:});	]]></content>	<tabTrigger>SensorScaled</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

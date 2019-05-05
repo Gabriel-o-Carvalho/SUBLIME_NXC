@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorHTCompass(${1:});	]]></content>	<tabTrigger>SensorHTCompass</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

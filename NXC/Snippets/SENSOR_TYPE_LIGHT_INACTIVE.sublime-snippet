@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[SENSOR_TYPE_LIGHT_INACTIVE]]></content>	<tabTrigger>SENSOR_TYPE_LIGHT_INACTIVE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

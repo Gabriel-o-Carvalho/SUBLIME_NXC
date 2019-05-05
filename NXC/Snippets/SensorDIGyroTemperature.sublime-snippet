@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorDIGyroTemperature(${1:});	]]></content>	<tabTrigger>SensorDIGyroTemperature</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

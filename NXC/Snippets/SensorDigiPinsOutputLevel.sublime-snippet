@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorDigiPinsOutputLevel(${1:});	]]></content>	<tabTrigger>SensorDigiPinsOutputLevel</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

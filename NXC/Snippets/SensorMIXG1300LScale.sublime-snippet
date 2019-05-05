@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorMIXG1300LScale(${1:});	]]></content>	<tabTrigger>SensorMIXG1300LScale</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

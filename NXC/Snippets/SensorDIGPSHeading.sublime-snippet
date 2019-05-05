@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorDIGPSHeading(${1:});	]]></content>	<tabTrigger>SensorDIGPSHeading</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

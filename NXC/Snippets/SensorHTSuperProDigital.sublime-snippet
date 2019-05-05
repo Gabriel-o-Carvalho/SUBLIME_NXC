@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorHTSuperProDigital(${1:});	]]></content>	<tabTrigger>SensorHTSuperProDigital</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorHTEOPD(${1:});	]]></content>	<tabTrigger>SensorHTEOPD</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

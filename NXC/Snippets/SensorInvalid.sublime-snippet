@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorInvalid(${1:});	]]></content>	<tabTrigger>SensorInvalid</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

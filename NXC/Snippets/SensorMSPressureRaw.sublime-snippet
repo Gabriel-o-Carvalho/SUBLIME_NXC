@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorMSPressureRaw(${1:});	]]></content>	<tabTrigger>SensorMSPressureRaw</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

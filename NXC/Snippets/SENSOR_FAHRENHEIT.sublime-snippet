@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[SENSOR_FAHRENHEIT]]></content>	<tabTrigger>SENSOR_FAHRENHEIT</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

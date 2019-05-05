@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorDIGPSTime(${1:});	]]></content>	<tabTrigger>SensorDIGPSTime</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

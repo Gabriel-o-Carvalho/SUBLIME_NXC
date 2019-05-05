@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[SENSOR_TYPE_SOUND_DBA]]></content>	<tabTrigger>SENSOR_TYPE_SOUND_DBA</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

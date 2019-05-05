@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorHTPIR(${1:});	]]></content>	<tabTrigger>SensorHTPIR</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

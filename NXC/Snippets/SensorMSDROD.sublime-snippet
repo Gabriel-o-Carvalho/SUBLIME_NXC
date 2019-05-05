@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorMSDROD(${1:});	]]></content>	<tabTrigger>SensorMSDROD</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

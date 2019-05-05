@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorHTIRSeeker2Addr(${1:});	]]></content>	<tabTrigger>SensorHTIRSeeker2Addr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

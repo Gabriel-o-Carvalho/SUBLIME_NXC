@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorMode(${1:});	]]></content>	<tabTrigger>SensorMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

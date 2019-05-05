@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorNXTSumoEyesRaw(${1:});	]]></content>	<tabTrigger>SensorNXTSumoEyesRaw</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

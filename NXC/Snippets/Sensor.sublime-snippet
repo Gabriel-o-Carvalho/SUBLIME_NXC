@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Sensor(${1:});	]]></content>	<tabTrigger>Sensor</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

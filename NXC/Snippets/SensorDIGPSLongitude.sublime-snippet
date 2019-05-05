@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorDIGPSLongitude(${1:});	]]></content>	<tabTrigger>SensorDIGPSLongitude</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

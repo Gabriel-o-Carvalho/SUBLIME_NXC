@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SensorNormalized(${1:});	]]></content>	<tabTrigger>SensorNormalized</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
