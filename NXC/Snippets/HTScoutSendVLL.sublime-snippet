@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSendVLL(${1:});	]]></content>	<tabTrigger>HTScoutSendVLL</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

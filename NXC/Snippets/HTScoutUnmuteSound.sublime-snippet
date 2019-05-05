@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutUnmuteSound(${1:});	]]></content>	<tabTrigger>HTScoutUnmuteSound</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

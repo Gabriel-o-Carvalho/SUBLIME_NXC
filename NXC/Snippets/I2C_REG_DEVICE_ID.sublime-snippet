@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[I2C_REG_DEVICE_ID]]></content>	<tabTrigger>I2C_REG_DEVICE_ID</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

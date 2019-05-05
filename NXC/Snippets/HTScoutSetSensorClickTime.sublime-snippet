@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSetSensorClickTime(${1:});	]]></content>	<tabTrigger>HTScoutSetSensorClickTime</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

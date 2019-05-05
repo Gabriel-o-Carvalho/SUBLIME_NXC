@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSelectSounds(${1:});	]]></content>	<tabTrigger>HTScoutSelectSounds</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

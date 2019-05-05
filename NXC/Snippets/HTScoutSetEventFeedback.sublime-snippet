@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSetEventFeedback(${1:});	]]></content>	<tabTrigger>HTScoutSetEventFeedback</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

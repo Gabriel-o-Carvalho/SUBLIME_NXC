@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[I2C_OPTION_NORESTART]]></content>	<tabTrigger>I2C_OPTION_NORESTART</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

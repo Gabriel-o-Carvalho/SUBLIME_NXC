@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[I2C_ADDR_DEFAULT]]></content>	<tabTrigger>I2C_ADDR_DEFAULT</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

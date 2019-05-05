@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXSetPriority(${1:});	]]></content>	<tabTrigger>HTRCXSetPriority</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

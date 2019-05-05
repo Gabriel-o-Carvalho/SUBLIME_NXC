@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXSetMaxPower(${1:});	]]></content>	<tabTrigger>HTRCXSetMaxPower</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSetSensorHysteresis(${1:});	]]></content>	<tabTrigger>HTScoutSetSensorHysteresis</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXStopTask(${1:});	]]></content>	<tabTrigger>HTRCXStopTask</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

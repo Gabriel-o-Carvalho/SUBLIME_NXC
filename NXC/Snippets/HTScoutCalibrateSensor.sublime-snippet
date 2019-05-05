@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutCalibrateSensor(${1:});	]]></content>	<tabTrigger>HTScoutCalibrateSensor</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

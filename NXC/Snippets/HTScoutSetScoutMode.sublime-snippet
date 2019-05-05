@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSetScoutMode(${1:});	]]></content>	<tabTrigger>HTScoutSetScoutMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

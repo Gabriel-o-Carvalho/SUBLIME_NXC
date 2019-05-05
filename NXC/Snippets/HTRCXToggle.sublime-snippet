@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXToggle(${1:});	]]></content>	<tabTrigger>HTRCXToggle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

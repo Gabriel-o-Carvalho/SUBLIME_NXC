@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXSetTxPower(${1:});	]]></content>	<tabTrigger>HTRCXSetTxPower</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

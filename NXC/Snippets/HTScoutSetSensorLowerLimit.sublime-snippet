@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTScoutSetSensorLowerLimit(${1:});	]]></content>	<tabTrigger>HTScoutSetSensorLowerLimit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

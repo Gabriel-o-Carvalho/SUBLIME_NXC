@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[I2CCheckStatus(${1:});	]]></content>	<tabTrigger>I2CCheckStatus</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

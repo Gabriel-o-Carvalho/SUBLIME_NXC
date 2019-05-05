@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[I2C_OPTION_FAST]]></content>	<tabTrigger>I2C_OPTION_FAST</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[HTRCXSetIRLinkPort(${1:});	]]></content>	<tabTrigger>HTRCXSetIRLinkPort</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
