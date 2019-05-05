@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[PFMateSendRaw(${1:});	]]></content>	<tabTrigger>PFMateSendRaw</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

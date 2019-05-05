@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[PF_PWM_BRAKE]]></content>	<tabTrigger>PF_PWM_BRAKE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

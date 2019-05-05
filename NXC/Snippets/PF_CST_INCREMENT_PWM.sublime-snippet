@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[PF_CST_INCREMENT_PWM]]></content>	<tabTrigger>PF_CST_INCREMENT_PWM</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

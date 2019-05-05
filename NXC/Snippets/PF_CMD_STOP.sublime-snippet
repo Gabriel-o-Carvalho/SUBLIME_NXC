@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[PF_CMD_STOP]]></content>	<tabTrigger>PF_CMD_STOP</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
