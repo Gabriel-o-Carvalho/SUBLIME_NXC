@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MotorMode(${1:});	]]></content>	<tabTrigger>MotorMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

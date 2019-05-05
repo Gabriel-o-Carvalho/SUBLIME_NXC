@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MotorMaxAcceleration(${1:});	]]></content>	<tabTrigger>MotorMaxAcceleration</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

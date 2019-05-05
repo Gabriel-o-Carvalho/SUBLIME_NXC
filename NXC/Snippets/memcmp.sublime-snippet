@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[memcmp(${1:});	]]></content>	<tabTrigger>memcmp</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

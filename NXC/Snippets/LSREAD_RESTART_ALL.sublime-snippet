@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[LSREAD_RESTART_ALL]]></content>	<tabTrigger>LSREAD_RESTART_ALL</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

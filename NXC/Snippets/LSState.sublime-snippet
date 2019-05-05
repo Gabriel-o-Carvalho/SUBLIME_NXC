@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[LSState(${1:});	]]></content>	<tabTrigger>LSState</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MotorBlockTachoCount(${1:});	]]></content>	<tabTrigger>MotorBlockTachoCount</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

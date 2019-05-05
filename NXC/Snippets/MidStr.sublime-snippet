@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MidStr(${1:});	]]></content>	<tabTrigger>MidStr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

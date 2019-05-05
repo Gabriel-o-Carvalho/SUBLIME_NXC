@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[LSInputBufferBytesToRx(${1:});	]]></content>	<tabTrigger>LSInputBufferBytesToRx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

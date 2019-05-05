@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MotorOutputOptions(${1:});	]]></content>	<tabTrigger>MotorOutputOptions</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
