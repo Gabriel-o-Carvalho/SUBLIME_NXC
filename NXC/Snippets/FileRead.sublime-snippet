@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[FileRead]]></content>	<tabTrigger>FileRead</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

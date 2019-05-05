@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[feof(${1:});	]]></content>	<tabTrigger>feof</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

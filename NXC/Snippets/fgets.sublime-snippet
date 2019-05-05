@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[fgets(${1:});	]]></content>	<tabTrigger>fgets</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

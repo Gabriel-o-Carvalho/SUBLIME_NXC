@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[FormatVal(${1:});	]]></content>	<tabTrigger>FormatVal</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

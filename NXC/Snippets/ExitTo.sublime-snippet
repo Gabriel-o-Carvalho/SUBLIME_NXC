@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ExitTo(${1:});	]]></content>	<tabTrigger>ExitTo</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

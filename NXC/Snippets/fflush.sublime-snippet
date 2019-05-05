@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[fflush(${1:});	]]></content>	<tabTrigger>fflush</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

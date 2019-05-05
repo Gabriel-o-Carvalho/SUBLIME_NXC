@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[FontNumOut(${1:});	]]></content>	<tabTrigger>FontNumOut</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

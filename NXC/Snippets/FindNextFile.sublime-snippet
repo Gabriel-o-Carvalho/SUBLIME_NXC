@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[FindNextFile(${1:});	]]></content>	<tabTrigger>FindNextFile</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

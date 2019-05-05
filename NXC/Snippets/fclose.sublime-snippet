@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[fclose(${1:});	]]></content>	<tabTrigger>fclose</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

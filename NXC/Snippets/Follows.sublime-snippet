@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Follows(${1:});	]]></content>	<tabTrigger>Follows</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

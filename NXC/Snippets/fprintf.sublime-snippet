@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[fprintf(${1:});	]]></content>	<tabTrigger>fprintf</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

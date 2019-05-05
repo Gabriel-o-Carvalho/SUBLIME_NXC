@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[FormatNum(${1:});	]]></content>	<tabTrigger>FormatNum</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
