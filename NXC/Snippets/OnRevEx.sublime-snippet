@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[OnRevEx(${1:});	]]></content>	<tabTrigger>OnRevEx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

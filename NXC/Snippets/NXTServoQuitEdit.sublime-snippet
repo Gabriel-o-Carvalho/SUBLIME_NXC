@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoQuitEdit(${1:});	]]></content>	<tabTrigger>NXTServoQuitEdit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

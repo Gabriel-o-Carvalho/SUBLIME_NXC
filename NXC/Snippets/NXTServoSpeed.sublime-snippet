@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoSpeed(${1:});	]]></content>	<tabTrigger>NXTServoSpeed</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

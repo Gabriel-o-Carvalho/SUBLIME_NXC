@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[OnBrickProgramPointer(${1:});	]]></content>	<tabTrigger>OnBrickProgramPointer</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

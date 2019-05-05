@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[OnRevRegExPID(${1:});	]]></content>	<tabTrigger>OnRevRegExPID</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

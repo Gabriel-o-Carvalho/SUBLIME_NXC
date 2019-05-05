@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoReset(${1:});	]]></content>	<tabTrigger>NXTServoReset</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[OnFwd(${1:});	]]></content>	<tabTrigger>OnFwd</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[OffEx(${1:});	]]></content>	<tabTrigger>OffEx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

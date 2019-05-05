@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoResumeMacro(${1:});	]]></content>	<tabTrigger>NXTServoResumeMacro</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
