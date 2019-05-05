@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXAndVar(${1:});	]]></content>	<tabTrigger>MSRCXAndVar</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

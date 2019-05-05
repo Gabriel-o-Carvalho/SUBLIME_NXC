@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSIRTrain(${1:});	]]></content>	<tabTrigger>MSIRTrain</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXDeleteTask(${1:});	]]></content>	<tabTrigger>MSRCXDeleteTask</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

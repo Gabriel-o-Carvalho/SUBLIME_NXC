@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXIncCounter(${1:});	]]></content>	<tabTrigger>MSRCXIncCounter</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

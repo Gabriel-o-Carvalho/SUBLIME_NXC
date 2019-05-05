@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSPFSingleOutputPWM(${1:});	]]></content>	<tabTrigger>MSPFSingleOutputPWM</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSPFRepeat(${1:});	]]></content>	<tabTrigger>MSPFRepeat</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

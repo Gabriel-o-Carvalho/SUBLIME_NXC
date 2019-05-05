@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSPFSinglePin(${1:});	]]></content>	<tabTrigger>MSPFSinglePin</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

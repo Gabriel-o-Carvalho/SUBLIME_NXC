@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSDeenergize(${1:});	]]></content>	<tabTrigger>MSDeenergize</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSPFSingleOutputCST(${1:});	]]></content>	<tabTrigger>MSPFSingleOutputCST</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

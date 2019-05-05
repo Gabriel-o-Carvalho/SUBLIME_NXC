@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXEnableOutput(${1:});	]]></content>	<tabTrigger>MSRCXEnableOutput</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

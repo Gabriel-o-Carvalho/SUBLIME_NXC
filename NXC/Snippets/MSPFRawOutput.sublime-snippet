@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSPFRawOutput(${1:});	]]></content>	<tabTrigger>MSPFRawOutput</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

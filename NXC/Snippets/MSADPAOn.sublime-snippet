@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSADPAOn(${1:});	]]></content>	<tabTrigger>MSADPAOn</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

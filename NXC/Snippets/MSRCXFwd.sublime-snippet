@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXFwd(${1:});	]]></content>	<tabTrigger>MSRCXFwd</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXClearAllEvents(${1:});	]]></content>	<tabTrigger>MSRCXClearAllEvents</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

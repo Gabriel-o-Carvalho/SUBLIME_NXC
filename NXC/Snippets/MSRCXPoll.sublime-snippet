@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXPoll(${1:});	]]></content>	<tabTrigger>MSRCXPoll</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

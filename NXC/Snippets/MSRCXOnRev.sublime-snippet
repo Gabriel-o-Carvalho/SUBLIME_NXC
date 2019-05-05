@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXOnRev(${1:});	]]></content>	<tabTrigger>MSRCXOnRev</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

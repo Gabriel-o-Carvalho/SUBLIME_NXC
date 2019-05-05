@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[MSRCXClearSound(${1:});	]]></content>	<tabTrigger>MSRCXClearSound</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
