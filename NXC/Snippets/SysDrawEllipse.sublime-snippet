@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDrawEllipse(${1:});	]]></content>	<tabTrigger>SysDrawEllipse</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

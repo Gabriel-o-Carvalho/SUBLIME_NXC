@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[strtod(${1:});	]]></content>	<tabTrigger>strtod</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[strtoul(${1:});	]]></content>	<tabTrigger>strtoul</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

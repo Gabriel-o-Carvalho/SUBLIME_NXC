@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysCall(${1:});	]]></content>	<tabTrigger>SysCall</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

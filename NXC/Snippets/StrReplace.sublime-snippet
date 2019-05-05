@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[StrReplace(${1:});	]]></content>	<tabTrigger>StrReplace</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

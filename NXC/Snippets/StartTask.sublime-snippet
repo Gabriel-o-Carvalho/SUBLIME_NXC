@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[StartTask(${1:});	]]></content>	<tabTrigger>StartTask</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

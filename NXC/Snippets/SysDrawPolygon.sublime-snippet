@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDrawPolygon(${1:});	]]></content>	<tabTrigger>SysDrawPolygon</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

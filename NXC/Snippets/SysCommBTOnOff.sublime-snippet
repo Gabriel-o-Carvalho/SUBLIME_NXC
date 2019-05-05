@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysCommBTOnOff(${1:});	]]></content>	<tabTrigger>SysCommBTOnOff</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

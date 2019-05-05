@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysComputeCalibValue(${1:});	]]></content>	<tabTrigger>SysComputeCalibValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

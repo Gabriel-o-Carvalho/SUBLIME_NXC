@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDisplayExecuteFunction(${1:});	]]></content>	<tabTrigger>SysDisplayExecuteFunction</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

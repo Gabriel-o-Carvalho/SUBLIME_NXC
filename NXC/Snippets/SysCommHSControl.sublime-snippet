@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysCommHSControl(${1:});	]]></content>	<tabTrigger>SysCommHSControl</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

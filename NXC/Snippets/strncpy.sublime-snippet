@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[strncpy(${1:});	]]></content>	<tabTrigger>strncpy</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

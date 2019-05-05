@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SoundSampleRate(${1:});	]]></content>	<tabTrigger>SoundSampleRate</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

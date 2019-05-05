@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDrawCircle(${1:});	]]></content>	<tabTrigger>SysDrawCircle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

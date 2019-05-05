@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[STAT_MSG_EMPTY_MAILBOX]]></content>	<tabTrigger>STAT_MSG_EMPTY_MAILBOX</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

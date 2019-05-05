@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysCommExecuteFunction(${1:});	]]></content>	<tabTrigger>SysCommExecuteFunction</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

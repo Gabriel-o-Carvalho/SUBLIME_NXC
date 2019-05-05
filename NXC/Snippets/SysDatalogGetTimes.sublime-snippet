@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDatalogGetTimes(${1:});	]]></content>	<tabTrigger>SysDatalogGetTimes</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

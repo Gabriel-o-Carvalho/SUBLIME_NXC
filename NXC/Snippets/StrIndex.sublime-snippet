@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[StrIndex(${1:});	]]></content>	<tabTrigger>StrIndex</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

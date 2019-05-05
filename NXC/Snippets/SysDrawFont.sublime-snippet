@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysDrawFont(${1:});	]]></content>	<tabTrigger>SysDrawFont</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

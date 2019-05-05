@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SysCommBTCheckStatus(${1:});	]]></content>	<tabTrigger>SysCommBTCheckStatus</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

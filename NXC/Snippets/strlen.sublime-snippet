@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[strlen(${1:});	]]></content>	<tabTrigger>strlen</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
