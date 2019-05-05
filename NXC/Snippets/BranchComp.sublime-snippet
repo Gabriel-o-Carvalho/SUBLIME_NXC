@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BranchComp(${1:});	]]></content>	<tabTrigger>BranchComp</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

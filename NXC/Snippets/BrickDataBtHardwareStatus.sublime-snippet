@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BrickDataBtHardwareStatus(${1:});	]]></content>	<tabTrigger>BrickDataBtHardwareStatus</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

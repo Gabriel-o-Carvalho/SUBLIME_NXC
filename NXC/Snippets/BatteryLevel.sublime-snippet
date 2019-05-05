@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BatteryLevel(${1:});	]]></content>	<tabTrigger>BatteryLevel</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

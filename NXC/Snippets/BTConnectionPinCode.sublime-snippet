@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BTConnectionPinCode(${1:});	]]></content>	<tabTrigger>BTConnectionPinCode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

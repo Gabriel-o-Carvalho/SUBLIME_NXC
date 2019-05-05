@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BTConnectionName(${1:});	]]></content>	<tabTrigger>BTConnectionName</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

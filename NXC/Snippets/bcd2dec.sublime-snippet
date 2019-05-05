@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[bcd2dec(${1:});	]]></content>	<tabTrigger>bcd2dec</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BrickDataBluecoreVersion(${1:});	]]></content>	<tabTrigger>BrickDataBluecoreVersion</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

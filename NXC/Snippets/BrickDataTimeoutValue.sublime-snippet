@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BrickDataTimeoutValue(${1:});	]]></content>	<tabTrigger>BrickDataTimeoutValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

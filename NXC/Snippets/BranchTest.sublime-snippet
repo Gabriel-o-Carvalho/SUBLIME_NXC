@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BranchTest(${1:});	]]></content>	<tabTrigger>BranchTest</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

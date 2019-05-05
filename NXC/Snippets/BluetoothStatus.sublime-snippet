@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BluetoothStatus(${1:});	]]></content>	<tabTrigger>BluetoothStatus</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

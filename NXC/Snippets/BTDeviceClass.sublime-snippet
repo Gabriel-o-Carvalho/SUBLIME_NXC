@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BTDeviceClass(${1:});	]]></content>	<tabTrigger>BTDeviceClass</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BTDataMode(${1:});	]]></content>	<tabTrigger>BTDataMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

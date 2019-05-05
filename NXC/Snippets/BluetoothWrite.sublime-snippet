@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[BluetoothWrite(${1:});	]]></content>	<tabTrigger>BluetoothWrite</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
