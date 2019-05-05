@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[isxdigit(${1:});	]]></content>	<tabTrigger>isxdigit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

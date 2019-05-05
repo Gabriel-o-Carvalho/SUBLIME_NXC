@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[isprint(${1:});	]]></content>	<tabTrigger>isprint</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

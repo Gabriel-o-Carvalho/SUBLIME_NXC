@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[iscntrl(${1:});	]]></content>	<tabTrigger>iscntrl</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

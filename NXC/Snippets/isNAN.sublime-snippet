@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[isNAN(${1:});	]]></content>	<tabTrigger>isNAN</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

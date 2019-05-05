@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[JoystickExMessageRead(${1:});	]]></content>	<tabTrigger>JoystickExMessageRead</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

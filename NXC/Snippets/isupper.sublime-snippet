@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[isupper(${1:});	]]></content>	<tabTrigger>isupper</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

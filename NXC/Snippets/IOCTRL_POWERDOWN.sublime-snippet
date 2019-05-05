@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[IOCTRL_POWERDOWN]]></content>	<tabTrigger>IOCTRL_POWERDOWN</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

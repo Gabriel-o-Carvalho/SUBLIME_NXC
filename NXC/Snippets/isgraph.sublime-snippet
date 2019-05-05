@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[isgraph(${1:});	]]></content>	<tabTrigger>isgraph</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

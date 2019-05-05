@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ispunct(${1:});	]]></content>	<tabTrigger>ispunct</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
