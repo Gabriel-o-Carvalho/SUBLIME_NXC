@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetInput(${1:});	]]></content>	<tabTrigger>GetInput</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

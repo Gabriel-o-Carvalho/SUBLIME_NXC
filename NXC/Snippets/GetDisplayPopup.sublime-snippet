@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetDisplayPopup(${1:});	]]></content>	<tabTrigger>GetDisplayPopup</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

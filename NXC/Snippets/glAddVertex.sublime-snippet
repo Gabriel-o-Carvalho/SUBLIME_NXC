@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glAddVertex(${1:});	]]></content>	<tabTrigger>glAddVertex</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

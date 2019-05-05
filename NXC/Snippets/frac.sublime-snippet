@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[frac(${1:});	]]></content>	<tabTrigger>frac</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

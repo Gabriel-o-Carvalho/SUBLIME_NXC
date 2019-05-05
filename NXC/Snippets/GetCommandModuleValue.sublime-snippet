@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetCommandModuleValue(${1:});	]]></content>	<tabTrigger>GetCommandModuleValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetMemoryInfo(${1:});	]]></content>	<tabTrigger>GetMemoryInfo</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glAddToAngleZ(${1:});	]]></content>	<tabTrigger>glAddToAngleZ</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

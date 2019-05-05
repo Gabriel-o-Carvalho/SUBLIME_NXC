@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[fputs(${1:});	]]></content>	<tabTrigger>fputs</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

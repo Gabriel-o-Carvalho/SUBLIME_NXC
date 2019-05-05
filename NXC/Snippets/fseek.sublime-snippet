@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[fseek(${1:});	]]></content>	<tabTrigger>fseek</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

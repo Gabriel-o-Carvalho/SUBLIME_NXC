@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glSin32768(${1:});	]]></content>	<tabTrigger>glSin32768</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

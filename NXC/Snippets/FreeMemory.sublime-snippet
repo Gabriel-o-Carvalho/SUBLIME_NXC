@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[FreeMemory(${1:});	]]></content>	<tabTrigger>FreeMemory</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

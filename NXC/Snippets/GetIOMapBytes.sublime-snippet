@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetIOMapBytes(${1:});	]]></content>	<tabTrigger>GetIOMapBytes</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

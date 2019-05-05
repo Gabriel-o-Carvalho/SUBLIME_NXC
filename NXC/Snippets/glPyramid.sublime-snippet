@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glPyramid(${1:});	]]></content>	<tabTrigger>glPyramid</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glSetAngleY(${1:});	]]></content>	<tabTrigger>glSetAngleY</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

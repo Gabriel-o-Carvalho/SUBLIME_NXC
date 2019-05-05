@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetLowSpeedModuleBytes(${1:});	]]></content>	<tabTrigger>GetLowSpeedModuleBytes</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

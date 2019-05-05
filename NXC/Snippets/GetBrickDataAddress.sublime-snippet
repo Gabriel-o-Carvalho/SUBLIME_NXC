@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetBrickDataAddress(${1:});	]]></content>	<tabTrigger>GetBrickDataAddress</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

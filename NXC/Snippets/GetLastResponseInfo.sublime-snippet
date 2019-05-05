@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetLastResponseInfo(${1:});	]]></content>	<tabTrigger>GetLastResponseInfo</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

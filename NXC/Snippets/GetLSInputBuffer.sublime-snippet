@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetLSInputBuffer(${1:});	]]></content>	<tabTrigger>GetLSInputBuffer</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

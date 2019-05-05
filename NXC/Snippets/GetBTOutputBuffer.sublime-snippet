@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetBTOutputBuffer(${1:});	]]></content>	<tabTrigger>GetBTOutputBuffer</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

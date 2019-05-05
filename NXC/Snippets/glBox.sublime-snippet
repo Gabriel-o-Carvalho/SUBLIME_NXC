@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glBox(${1:});	]]></content>	<tabTrigger>glBox</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

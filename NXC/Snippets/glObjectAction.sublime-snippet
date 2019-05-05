@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glObjectAction(${1:});	]]></content>	<tabTrigger>glObjectAction</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

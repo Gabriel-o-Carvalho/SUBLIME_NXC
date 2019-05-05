@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glSet(${1:});	]]></content>	<tabTrigger>glSet</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

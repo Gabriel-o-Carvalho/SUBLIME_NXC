@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[glFinishRender(${1:});	]]></content>	<tabTrigger>glFinishRender</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

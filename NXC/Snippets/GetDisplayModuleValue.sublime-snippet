@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GetDisplayModuleValue(${1:});	]]></content>	<tabTrigger>GetDisplayModuleValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

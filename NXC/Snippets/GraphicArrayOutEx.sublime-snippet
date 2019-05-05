@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[GraphicArrayOutEx(${1:});	]]></content>	<tabTrigger>GraphicArrayOutEx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
