@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[I2CWrite(${1:});	]]></content>	<tabTrigger>I2CWrite</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

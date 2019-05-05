@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[INTF_DISCONNECTALL]]></content>	<tabTrigger>INTF_DISCONNECTALL</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[INTF_SENDDATA]]></content>	<tabTrigger>INTF_SENDDATA</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

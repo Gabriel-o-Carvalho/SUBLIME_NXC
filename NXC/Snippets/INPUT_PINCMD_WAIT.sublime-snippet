@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[INPUT_PINCMD_WAIT]]></content>	<tabTrigger>INPUT_PINCMD_WAIT</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

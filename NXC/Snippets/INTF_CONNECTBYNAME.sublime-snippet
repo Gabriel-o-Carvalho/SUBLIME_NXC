@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[INTF_CONNECTBYNAME]]></content>	<tabTrigger>INTF_CONNECTBYNAME</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

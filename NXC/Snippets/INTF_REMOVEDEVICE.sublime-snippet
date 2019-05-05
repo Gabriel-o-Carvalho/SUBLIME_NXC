@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[INTF_REMOVEDEVICE]]></content>	<tabTrigger>INTF_REMOVEDEVICE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
