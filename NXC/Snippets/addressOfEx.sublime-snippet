@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[addressOfEx(${1:});	]]></content>	<tabTrigger>addressOfEx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

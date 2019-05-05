@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ACCLNxYRange(${1:});	]]></content>	<tabTrigger>ACCLNxYRange</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

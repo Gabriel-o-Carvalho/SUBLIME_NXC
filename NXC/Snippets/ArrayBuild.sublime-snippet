@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ArrayBuild(${1:});	]]></content>	<tabTrigger>ArrayBuild</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[acosd(${1:});	]]></content>	<tabTrigger>acosd</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ArraySort(${1:});	]]></content>	<tabTrigger>ArraySort</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

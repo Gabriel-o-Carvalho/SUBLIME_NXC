@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Acquire(${1:});	]]></content>	<tabTrigger>Acquire</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

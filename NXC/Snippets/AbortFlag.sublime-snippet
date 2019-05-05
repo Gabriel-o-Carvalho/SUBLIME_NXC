@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[AbortFlag(${1:});	]]></content>	<tabTrigger>AbortFlag</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

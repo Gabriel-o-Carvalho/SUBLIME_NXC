@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ACCLNxXOffset(${1:});	]]></content>	<tabTrigger>ACCLNxXOffset</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

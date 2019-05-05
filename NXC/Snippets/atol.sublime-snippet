@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[atol(${1:});	]]></content>	<tabTrigger>atol</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

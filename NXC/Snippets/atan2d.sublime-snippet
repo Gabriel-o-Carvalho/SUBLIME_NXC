@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[atan2d(${1:});	]]></content>	<tabTrigger>atan2d</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

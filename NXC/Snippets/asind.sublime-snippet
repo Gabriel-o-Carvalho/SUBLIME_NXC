@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[asind(${1:});	]]></content>	<tabTrigger>asind</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ACCLNxResetCalibration(${1:});	]]></content>	<tabTrigger>ACCLNxResetCalibration</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

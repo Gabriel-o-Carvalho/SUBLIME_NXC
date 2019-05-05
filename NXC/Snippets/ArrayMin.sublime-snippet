@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ArrayMin(${1:});	]]></content>	<tabTrigger>ArrayMin</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
