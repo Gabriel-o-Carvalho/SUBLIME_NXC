@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[LDR_CMD_SETBRICKNAME]]></content>	<tabTrigger>LDR_CMD_SETBRICKNAME</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

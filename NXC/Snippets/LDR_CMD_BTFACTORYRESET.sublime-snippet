@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[LDR_CMD_BTFACTORYRESET]]></content>	<tabTrigger>LDR_CMD_BTFACTORYRESET</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

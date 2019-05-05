@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[LeftStr(${1:});	]]></content>	<tabTrigger>LeftStr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

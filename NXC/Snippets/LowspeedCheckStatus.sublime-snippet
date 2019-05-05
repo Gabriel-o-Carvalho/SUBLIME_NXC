@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[LowspeedCheckStatus(${1:});	]]></content>	<tabTrigger>LowspeedCheckStatus</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

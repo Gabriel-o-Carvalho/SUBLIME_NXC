@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[LDR_CMD_READ]]></content>	<tabTrigger>LDR_CMD_READ</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

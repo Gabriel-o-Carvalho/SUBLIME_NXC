@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[ListFiles]]></content>	<tabTrigger>ListFiles</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

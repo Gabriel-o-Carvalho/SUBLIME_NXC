@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[log10(${1:});	]]></content>	<tabTrigger>log10</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
