@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ClearScreen(${1:});	]]></content>	<tabTrigger>ClearScreen</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

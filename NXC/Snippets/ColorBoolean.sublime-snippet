@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ColorBoolean(${1:});	]]></content>	<tabTrigger>ColorBoolean</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

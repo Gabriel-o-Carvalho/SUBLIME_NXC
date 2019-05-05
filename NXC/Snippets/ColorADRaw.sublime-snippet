@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ColorADRaw(${1:});	]]></content>	<tabTrigger>ColorADRaw</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ClearLine(${1:});	]]></content>	<tabTrigger>ClearLine</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

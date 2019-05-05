@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ColorCalLimits(${1:});	]]></content>	<tabTrigger>ColorCalLimits</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

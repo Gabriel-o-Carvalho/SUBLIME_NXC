@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CircleOut(${1:});	]]></content>	<tabTrigger>CircleOut</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

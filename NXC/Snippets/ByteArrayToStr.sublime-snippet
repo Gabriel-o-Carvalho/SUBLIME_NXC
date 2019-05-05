@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ByteArrayToStr(${1:});	]]></content>	<tabTrigger>ByteArrayToStr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

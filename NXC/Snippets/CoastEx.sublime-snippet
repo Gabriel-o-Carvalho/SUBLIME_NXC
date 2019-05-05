@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CoastEx(${1:});	]]></content>	<tabTrigger>CoastEx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

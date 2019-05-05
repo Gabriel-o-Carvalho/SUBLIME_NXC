@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[CloseFile(${1:});	]]></content>	<tabTrigger>CloseFile</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

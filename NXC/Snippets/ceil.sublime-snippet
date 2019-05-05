@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ceil(${1:});	]]></content>	<tabTrigger>ceil</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ColorCalibrationState(${1:});	]]></content>	<tabTrigger>ColorCalibrationState</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
