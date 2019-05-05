@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteStartProgram(${1:});	]]></content>	<tabTrigger>RemoteStartProgram</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

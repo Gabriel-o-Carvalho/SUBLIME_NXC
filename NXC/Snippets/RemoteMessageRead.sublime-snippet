@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteMessageRead(${1:});	]]></content>	<tabTrigger>RemoteMessageRead</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

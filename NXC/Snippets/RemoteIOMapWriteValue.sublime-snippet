@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteIOMapWriteValue(${1:});	]]></content>	<tabTrigger>RemoteIOMapWriteValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

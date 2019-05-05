@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteResetMotorPosition(${1:});	]]></content>	<tabTrigger>RemoteResetMotorPosition</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

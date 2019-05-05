@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ResolveHandle(${1:});	]]></content>	<tabTrigger>ResolveHandle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

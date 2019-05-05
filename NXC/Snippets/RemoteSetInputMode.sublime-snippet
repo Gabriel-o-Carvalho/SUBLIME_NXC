@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteSetInputMode(${1:});	]]></content>	<tabTrigger>RemoteSetInputMode</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

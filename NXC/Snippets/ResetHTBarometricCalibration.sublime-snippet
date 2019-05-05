@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ResetHTBarometricCalibration(${1:});	]]></content>	<tabTrigger>ResetHTBarometricCalibration</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

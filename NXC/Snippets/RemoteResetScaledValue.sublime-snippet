@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteResetScaledValue(${1:});	]]></content>	<tabTrigger>RemoteResetScaledValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

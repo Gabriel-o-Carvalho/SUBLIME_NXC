@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ResetRotationCount(${1:});	]]></content>	<tabTrigger>ResetRotationCount</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

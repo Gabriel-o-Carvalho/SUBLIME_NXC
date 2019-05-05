@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ResetAllTachoCounts(${1:});	]]></content>	<tabTrigger>ResetAllTachoCounts</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

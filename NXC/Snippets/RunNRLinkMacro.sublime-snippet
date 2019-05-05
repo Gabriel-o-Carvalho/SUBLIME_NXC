@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RunNRLinkMacro(${1:});	]]></content>	<tabTrigger>RunNRLinkMacro</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

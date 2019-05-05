@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RS485Control(${1:});	]]></content>	<tabTrigger>RS485Control</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

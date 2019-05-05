@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RFIDReadContinuous(${1:});	]]></content>	<tabTrigger>RFIDReadContinuous</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

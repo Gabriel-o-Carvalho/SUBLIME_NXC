@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RenameFile(${1:});	]]></content>	<tabTrigger>RenameFile</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

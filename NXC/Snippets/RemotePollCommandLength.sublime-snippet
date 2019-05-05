@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemotePollCommandLength(${1:});	]]></content>	<tabTrigger>RemotePollCommandLength</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

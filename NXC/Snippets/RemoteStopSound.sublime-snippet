@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteStopSound(${1:});	]]></content>	<tabTrigger>RemoteStopSound</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

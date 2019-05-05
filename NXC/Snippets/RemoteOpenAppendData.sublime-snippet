@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteOpenAppendData(${1:});	]]></content>	<tabTrigger>RemoteOpenAppendData</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

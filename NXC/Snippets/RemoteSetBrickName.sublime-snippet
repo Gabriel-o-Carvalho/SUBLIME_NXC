@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteSetBrickName(${1:});	]]></content>	<tabTrigger>RemoteSetBrickName</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

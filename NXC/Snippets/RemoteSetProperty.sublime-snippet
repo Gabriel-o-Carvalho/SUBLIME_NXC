@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteSetProperty(${1:});	]]></content>	<tabTrigger>RemoteSetProperty</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

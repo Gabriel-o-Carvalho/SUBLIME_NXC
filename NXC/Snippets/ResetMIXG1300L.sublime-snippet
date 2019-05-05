@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ResetMIXG1300L(${1:});	]]></content>	<tabTrigger>ResetMIXG1300L</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

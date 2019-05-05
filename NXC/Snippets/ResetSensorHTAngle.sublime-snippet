@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ResetSensorHTAngle(${1:});	]]></content>	<tabTrigger>ResetSensorHTAngle</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

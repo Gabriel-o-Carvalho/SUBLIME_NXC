@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RotateMotorExPID(${1:});	]]></content>	<tabTrigger>RotateMotorExPID</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

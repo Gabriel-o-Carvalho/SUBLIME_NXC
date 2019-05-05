@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteWrite(${1:});	]]></content>	<tabTrigger>RemoteWrite</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
