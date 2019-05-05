@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetUIModuleValue(${1:});	]]></content>	<tabTrigger>SetUIModuleValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

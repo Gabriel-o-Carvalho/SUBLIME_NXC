@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetVMRunState(${1:});	]]></content>	<tabTrigger>SetVMRunState</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

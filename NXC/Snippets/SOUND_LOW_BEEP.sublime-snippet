@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[SOUND_LOW_BEEP]]></content>	<tabTrigger>SOUND_LOW_BEEP</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

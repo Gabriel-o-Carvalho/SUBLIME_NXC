@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorLowspeed(${1:});	]]></content>	<tabTrigger>SetSensorLowspeed</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetUSBInputBufferInPtr(${1:});	]]></content>	<tabTrigger>SetUSBInputBufferInPtr</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

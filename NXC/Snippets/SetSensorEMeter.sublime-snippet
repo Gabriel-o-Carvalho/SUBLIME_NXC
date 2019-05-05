@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorEMeter(${1:});	]]></content>	<tabTrigger>SetSensorEMeter</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

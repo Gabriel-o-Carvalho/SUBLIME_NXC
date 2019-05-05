@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSoundModuleValue(${1:});	]]></content>	<tabTrigger>SetSoundModuleValue</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSoundVolume(${1:});	]]></content>	<tabTrigger>SetSoundVolume</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorTouch(${1:});	]]></content>	<tabTrigger>SetSensorTouch</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

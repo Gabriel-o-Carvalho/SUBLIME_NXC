@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorHTForce(${1:});	]]></content>	<tabTrigger>SetSensorHTForce</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

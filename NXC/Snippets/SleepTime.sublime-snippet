@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SleepTime(${1:});	]]></content>	<tabTrigger>SleepTime</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

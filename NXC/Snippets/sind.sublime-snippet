@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[sind(${1:});	]]></content>	<tabTrigger>sind</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

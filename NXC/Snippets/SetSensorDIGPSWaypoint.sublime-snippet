@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorDIGPSWaypoint(${1:});	]]></content>	<tabTrigger>SetSensorDIGPSWaypoint</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

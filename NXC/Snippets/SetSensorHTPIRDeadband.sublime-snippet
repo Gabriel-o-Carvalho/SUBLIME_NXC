@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorHTPIRDeadband(${1:});	]]></content>	<tabTrigger>SetSensorHTPIRDeadband</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

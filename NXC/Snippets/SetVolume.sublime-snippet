@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetVolume(${1:});	]]></content>	<tabTrigger>SetVolume</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

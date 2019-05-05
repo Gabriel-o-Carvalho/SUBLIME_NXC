@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorUltrasonic(${1:});	]]></content>	<tabTrigger>SetSensorUltrasonic</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[sign(${1:});	]]></content>	<tabTrigger>sign</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

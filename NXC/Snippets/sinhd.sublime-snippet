@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[sinhd(${1:});	]]></content>	<tabTrigger>sinhd</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

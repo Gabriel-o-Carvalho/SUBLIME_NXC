@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[SetSensorDigiPinsDirection(${1:});	]]></content>	<tabTrigger>SetSensorDigiPinsDirection</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
