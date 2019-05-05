@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTSERVO_EM_CMD_QUIT]]></content>	<tabTrigger>NXTSERVO_EM_CMD_QUIT</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

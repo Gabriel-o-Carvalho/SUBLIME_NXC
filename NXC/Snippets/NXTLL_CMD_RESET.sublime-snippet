@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTLL_CMD_RESET]]></content>	<tabTrigger>NXTLL_CMD_RESET</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

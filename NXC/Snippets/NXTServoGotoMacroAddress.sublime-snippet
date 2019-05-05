@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoGotoMacroAddress(${1:});	]]></content>	<tabTrigger>NXTServoGotoMacroAddress</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTSERVO_CMD_RESET]]></content>	<tabTrigger>NXTSERVO_CMD_RESET</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

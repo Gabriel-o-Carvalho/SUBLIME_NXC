@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoInit(${1:});	]]></content>	<tabTrigger>NXTServoInit</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTSERVO_QPOS_MIN]]></content>	<tabTrigger>NXTSERVO_QPOS_MIN</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

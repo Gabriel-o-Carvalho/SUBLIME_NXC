@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTLineLeaderCalibrateBlack(${1:});	]]></content>	<tabTrigger>NXTLineLeaderCalibrateBlack</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

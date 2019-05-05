@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTLineLeaderSnapshot(${1:});	]]></content>	<tabTrigger>NXTLineLeaderSnapshot</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

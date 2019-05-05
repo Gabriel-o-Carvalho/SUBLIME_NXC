@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTLineLeaderAverage(${1:});	]]></content>	<tabTrigger>NXTLineLeaderAverage</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

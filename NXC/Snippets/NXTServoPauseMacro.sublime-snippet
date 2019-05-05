@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTServoPauseMacro(${1:});	]]></content>	<tabTrigger>NXTServoPauseMacro</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTLineLeaderSteering(${1:});	]]></content>	<tabTrigger>NXTLineLeaderSteering</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

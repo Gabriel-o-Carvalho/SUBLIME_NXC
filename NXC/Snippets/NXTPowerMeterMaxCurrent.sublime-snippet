@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTPowerMeterMaxCurrent(${1:});	]]></content>	<tabTrigger>NXTPowerMeterMaxCurrent</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

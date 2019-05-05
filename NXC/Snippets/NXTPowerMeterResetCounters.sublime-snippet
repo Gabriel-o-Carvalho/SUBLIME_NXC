@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTPowerMeterResetCounters(${1:});	]]></content>	<tabTrigger>NXTPowerMeterResetCounters</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

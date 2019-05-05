@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTLineLeaderInvert(${1:});	]]></content>	<tabTrigger>NXTLineLeaderInvert</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

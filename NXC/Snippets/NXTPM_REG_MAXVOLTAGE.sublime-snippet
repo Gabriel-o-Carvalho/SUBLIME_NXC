@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTPM_REG_MAXVOLTAGE]]></content>	<tabTrigger>NXTPM_REG_MAXVOLTAGE</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

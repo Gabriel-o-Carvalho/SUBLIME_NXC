@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[NXTSERVO_EM_REG_EEPROM_END]]></content>	<tabTrigger>NXTSERVO_EM_REG_EEPROM_END</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

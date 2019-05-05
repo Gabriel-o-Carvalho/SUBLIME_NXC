@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[NXTPowerMeterTotalPowerConsumed(${1:});	]]></content>	<tabTrigger>NXTPowerMeterTotalPowerConsumed</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
