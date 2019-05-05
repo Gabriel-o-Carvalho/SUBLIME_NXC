@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorHTTouchMultiplexer(${1:});	]]></content>	<tabTrigger>ReadSensorHTTouchMultiplexer</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorHTSuperProAnalogOut(${1:});	]]></content>	<tabTrigger>ReadSensorHTSuperProAnalogOut</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

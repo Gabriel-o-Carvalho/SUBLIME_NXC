@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteGetOutputState(${1:});	]]></content>	<tabTrigger>RemoteGetOutputState</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

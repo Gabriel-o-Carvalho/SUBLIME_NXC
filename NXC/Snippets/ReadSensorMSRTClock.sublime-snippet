@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorMSRTClock(${1:});	]]></content>	<tabTrigger>ReadSensorMSRTClock</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

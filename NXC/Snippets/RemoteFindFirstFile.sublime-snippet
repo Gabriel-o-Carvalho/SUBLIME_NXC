@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteFindFirstFile(${1:});	]]></content>	<tabTrigger>RemoteFindFirstFile</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

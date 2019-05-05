@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorMIXG1300L(${1:});	]]></content>	<tabTrigger>ReadSensorMIXG1300L</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

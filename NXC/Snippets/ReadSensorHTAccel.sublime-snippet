@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorHTAccel(${1:});	]]></content>	<tabTrigger>ReadSensorHTAccel</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

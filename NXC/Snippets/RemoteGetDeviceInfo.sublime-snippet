@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteGetDeviceInfo(${1:});	]]></content>	<tabTrigger>RemoteGetDeviceInfo</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

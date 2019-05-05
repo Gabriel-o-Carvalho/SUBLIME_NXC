@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorDIAcclDrift(${1:});	]]></content>	<tabTrigger>ReadSensorDIAcclDrift</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

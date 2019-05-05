@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadLn(${1:});	]]></content>	<tabTrigger>ReadLn</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

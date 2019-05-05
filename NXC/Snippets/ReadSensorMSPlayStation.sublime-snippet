@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorMSPlayStation(${1:});	]]></content>	<tabTrigger>ReadSensorMSPlayStation</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

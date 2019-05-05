@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorHTBarometric(${1:});	]]></content>	<tabTrigger>ReadSensorHTBarometric</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

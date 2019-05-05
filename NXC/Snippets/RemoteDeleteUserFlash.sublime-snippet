@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteDeleteUserFlash(${1:});	]]></content>	<tabTrigger>RemoteDeleteUserFlash</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorHTNormalizedColor(${1:});	]]></content>	<tabTrigger>ReadSensorHTNormalizedColor</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

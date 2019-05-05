@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteGetFirmwareVersion(${1:});	]]></content>	<tabTrigger>RemoteGetFirmwareVersion</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

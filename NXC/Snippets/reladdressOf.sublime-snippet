@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[reladdressOf(${1:});	]]></content>	<tabTrigger>reladdressOf</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

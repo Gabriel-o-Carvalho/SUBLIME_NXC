@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteGetConnectionName(${1:});	]]></content>	<tabTrigger>RemoteGetConnectionName</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

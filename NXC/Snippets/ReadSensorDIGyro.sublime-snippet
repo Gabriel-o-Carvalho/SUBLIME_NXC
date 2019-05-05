@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorDIGyro(${1:});	]]></content>	<tabTrigger>ReadSensorDIGyro</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

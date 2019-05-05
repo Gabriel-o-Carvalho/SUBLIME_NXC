@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[RemoteGetContactName(${1:});	]]></content>	<tabTrigger>RemoteGetContactName</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

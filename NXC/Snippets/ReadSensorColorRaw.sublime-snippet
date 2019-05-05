@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorColorRaw(${1:});	]]></content>	<tabTrigger>ReadSensorColorRaw</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

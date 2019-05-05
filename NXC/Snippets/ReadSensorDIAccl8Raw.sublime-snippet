@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorDIAccl8Raw(${1:});	]]></content>	<tabTrigger>ReadSensorDIAccl8Raw</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

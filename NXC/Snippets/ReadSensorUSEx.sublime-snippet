@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorUSEx(${1:});	]]></content>	<tabTrigger>ReadSensorUSEx</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

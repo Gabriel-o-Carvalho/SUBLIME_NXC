@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[Release(${1:});	]]></content>	<tabTrigger>Release</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>

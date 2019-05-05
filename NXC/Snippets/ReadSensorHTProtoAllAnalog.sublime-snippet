@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[ReadSensorHTProtoAllAnalog(${1:});	]]></content>	<tabTrigger>ReadSensorHTProtoAllAnalog</tabTrigger>
+<scope> source.nxc </scope>
+	</snippet>
