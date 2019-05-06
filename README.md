@@ -7,3 +7,7 @@ Antes de usar o pacote o usuário deve ter baixado o compilador NBC que pode ser
 Após baixá-lo, edite o arquivo NXC_Build.sublime-build adicionando a seguinte linha de código:
 
   "path" : "local do nbc"
+  
+Para usuários de ubuntu e derivados há a alternativa: sudo apt install nbc (Não sei dizer se está disponível em outras distribuições pelos repositórios)(Caso esse método seja usado, não é necessário alterar o arquibo NXC_Build.sublime-build)
+
+
