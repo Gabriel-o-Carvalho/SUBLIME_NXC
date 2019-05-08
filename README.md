@@ -2,13 +2,16 @@
 
 Pacote feito para programar o Lego Mindstorm com o software de programação Sublime Text 3.
 
-Antes de usar o pacote o usuário deve ter baixado o compilador NBC que pode ser obtido por meio do site: https://sourceforge.net/projects/bricxcc/files/NBC_NXC/
+Antes de usar o pacote o usuário deve ter instalado em seu computador o compilador NBC. 
 
-OBS: Para usuários de Ubuntu e derivados você pode abrir um terminal e digitar: sudo apt install nbc (evitando todo o processo abaixo)
+Saiba como em Ubuntu e derivados: 
+  1. Abra um terminal e cole: sudo apt install nbc.
+  2. Após a instalação siga as instruções deste site (não querendo roubar os créditos dos autores).
+  OBS: As intruções anteriores configurarão as propriedades USB, apenas é necessário essa configuração, sendo o bluetooth opção do usuário.
+  3. NBC instalado e conexão USB configurada agora é possivel utilizar o pacote no Sublime Text 3
+  4. Ao abrir um arquivo.nxc a syntax será alterada automaticamente, porém o build deve ser selecionado indo em Tools > Build system > NXC_Build
+  5. Após isso, com o NXT conectado ao PC, escreva o código e envie-o para o NXT pressionando Ctrl+ B
 
-Após baixá-lo, siga as instruções de acordo com seu sistema operacional 
-
-Saiba como em(Linux): https://github.com/UnbDroid/SEK/wiki/NXC-para-Linux
-
-Saiba como em(Windows): 
+Saiba como em Windows:
+  ...Ainda estamos trabalhando 😅
 
