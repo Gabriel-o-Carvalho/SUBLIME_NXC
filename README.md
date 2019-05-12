@@ -80,7 +80,7 @@ Antes de usar o pacote o usuário deve ter instalado em seu computador o compila
    11. Após isso, com o dispositivo conectado ao PC, escreva o código e envie-o pressionando Ctrl+ B.
 
           
-  ...Estamos trabalhando nisso 😅.
+  ...Estamos trabalhando para melhorarmos a qualidade do pacote e diminuir a quantidade de passos a serem executados... 😅.
  
   
 
