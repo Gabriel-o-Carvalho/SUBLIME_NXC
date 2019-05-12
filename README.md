@@ -28,7 +28,7 @@ Antes de usar o pacote o usuário deve ter instalado em seu computador o compila
 
   1. Baixe o compilador nbc para windows do site oficial: http://downloads.sourceforge.net/bricxcc/nbc-1.2.1.r4.zip
   
-  2. Coloque-o em uma pasta a seu gosto.
+  2. Extraia e coloque-o em uma pasta a seu gosto.
   
   3. Windows 10 e Windows 8
   
