@@ -77,7 +77,7 @@ Antes de usar o pacote o usuário deve ter instalado em seu computador o compila
    
    10. Ao abrir um arquivo.nxc a syntax será alterada automaticamente, porém o build deve ser selecionado indo em Tools > Build system > NXC_Build.
    
-   11. Após isso, com o NXT conectado ao PC, escreva o código e envie-o para o NXT pressionando Ctrl+ B.
+   11. Após isso, com o dispositivo conectado ao PC, escreva o código e envie-o para o NXT pressionando Ctrl+ B.
 
           
   ...Estamos trabalhando nisso 😅.
