@@ -72,10 +72,13 @@ Saiba como em Windows: As instruções a seguir possuem embasamento neste site: 
    
    8. Feito isto agora iremos adicionar o repositório do SUBLIME_NXC, ainda na parte superior vá em Prerences > Package Control > Add Repository e cole o link https://github.com/Gabriel-o-Carvalho/SUBLIME_NXC.git
    
-   9. 
+   9. Por fim, basta ir novamente por Preferences > Package Control e agora vá em Install Package. Digite o nome do pacote "SUBLIME_NXC"(sem as aspas) e dê um enter.
+   
+   10. Ao abrir um arquivo.nxc a syntax será alterada automaticamente, porém o build deve ser selecionado indo em Tools > Build system > NXC_Build.
+   
+   11. Após isso, com o NXT conectado ao PC, escreva o código e envie-o para o NXT pressionando Ctrl+ B.
 
           
-Reabra a janela Prompt de comando e execute o código Java.
   ...Estamos trabalhando nisso 😅.
  
   
