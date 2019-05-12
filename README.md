@@ -4,7 +4,8 @@ Pacote feito para programar o Lego Mindstorm com o software de programação Sub
 
 Antes de usar o pacote o usuário deve ter instalado em seu computador o compilador NBC. 
 
-Saiba como em Ubuntu e derivados: 
+**Saiba como em Ubuntu e derivados:** 
+
   1. Abra um terminal e cole: sudo apt install nbc.
   
   2. Após a instalação siga as instruções deste site (não querendo roubar os créditos dos autores). : http://bricxcc.sourceforge.net/nbc/doc/nxtlinux.txt  OBS: As intruções anteriores configurarão as propriedades USB, apenas é necessário essa configuração, sendo o bluetooth opção do usuário.
@@ -23,7 +24,7 @@ Saiba como em Ubuntu e derivados:
 
 *****************************************************************************************************************************
 
-Saiba como em Windows: As instruções a seguir possuem embasamento neste site: https://www.java.com/pt_BR/download/help/path.xml
+**Saiba como em Windows:** As instruções a seguir possuem embasamento neste site: https://www.java.com/pt_BR/download/help/path.xml
 
   1. Baixe o compilador nbc para windows do site oficial: http://downloads.sourceforge.net/bricxcc/nbc-1.2.1.r4.zip
   
