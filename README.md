@@ -14,7 +14,7 @@ Antes de usar o pacote o usuário deve ter instalado em seu computador o compila
   
   4. Para instalá-lo, você necessitará do Package Control, na parte superior vá em Tools > Install Package Control.
   
-  5. Feito isto agora iremos adicionar o repositório do SUBLIME_NXC, ainda na parte superior vá em Prerences > Package Control > Add Repository e cole o link https://github.com/Gabriel-o-Carvalho/SUBLIME_NXC.git
+  5. Feito isto agora iremos adicionar o repositório do SUBLIME_NXC, ainda na parte superior vá em Prefrences > Package Control > Add Repository e cole o link https://github.com/Gabriel-o-Carvalho/SUBLIME_NXC.git
   
   6. Por fim, basta ir novamente por Preferences > Package Control e agora vá em Install Package. Digite o nome do pacote "SUBLIME_NXC"(sem as aspas) e dê um enter.
   
@@ -71,7 +71,7 @@ Antes de usar o pacote o usuário deve ter instalado em seu computador o compila
    
    7. Para instalá-lo, você necessitará do Package Control, na parte superior vá em Tools > Install Package Control.
    
-   8. Feito isto agora iremos adicionar o repositório do SUBLIME_NXC, ainda na parte superior vá em Prerences > Package Control > Add Repository e cole o link https://github.com/Gabriel-o-Carvalho/SUBLIME_NXC.git
+   8. Feito isto agora iremos adicionar o repositório do SUBLIME_NXC, ainda na parte superior vá em Prefrences > Package Control > Add Repository e cole o link https://github.com/Gabriel-o-Carvalho/SUBLIME_NXC.git
    
    9. Por fim, basta ir novamente por Preferences > Package Control e agora vá em Install Package. Digite o nome do pacote "SUBLIME_NXC"(sem as aspas) e dê um enter.
    
