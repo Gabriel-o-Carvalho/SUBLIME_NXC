@@ -65,7 +65,7 @@ Antes de usar o pacote o usuário deve ter instalado em seu computador o compila
           
           4.9. Caso apareça uma lista de opções de comandos, a operação foi realizada com sucesso.
           
-   5. Agora instale o driver oficial da lego para comunicação USB com o dispositivo que será programado(EV3, NXT, etc): https://www.lego.com/en-us/mindstorms/downloads
+   5. Agora baixe e instale o driver oficial da lego para comunicação USB com o dispositivo que será programado(EV3, NXT, etc): https://www.lego.com/en-us/mindstorms/downloads
    
    6. Após a instalação, vamos agora instalar o pacote SUBLIME_NXC.
    
